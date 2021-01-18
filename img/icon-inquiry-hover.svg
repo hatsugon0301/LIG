@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="20" viewBox="0 0 25 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e0606;
+        stroke: #1e0606;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-inquiry-hover.svg" class="cls-1" d="M2272.81,384h-16.62a1.177,1.177,0,0,0-1.19,1.167v11.666a1.177,1.177,0,0,0,1.19,1.167h16.62a1.177,1.177,0,0,0,1.19-1.167V385.167A1.177,1.177,0,0,0,2272.81,384Zm-0.59,1.167-7.72,7.583-7.72-7.583h15.44Zm0.59,11.666h-16.62v-10.5l8.31,8.167,8.31-8.167v10.5Z" transform="translate(-2252 -381)"/>
+</svg>
